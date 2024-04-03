@@ -23,3 +23,13 @@ Visual Continuity:- Animations help maintain visual continuity within the interf
 Accessibility:- For users with disabilities, animations can provide additional cues about changes in the interface, aiding comprehension and navigation.
 
 Overall, switch animations play a vital role in modern interface design, contributing to usability, aesthetics, and user engagement.
+
+
+KEY FEATURES:--
+   Smooth Transition: Switch animations aim to create a seamless transition between different UI elements or screens, providing a smooth and visually appealing experience for users.
+
+   Duration Control: Animations often allow developers to control the duration of the transition, enabling them to adjust the speed to match the desired user experience.
+
+   Easing Functions: Easing functions determine the acceleration and deceleration of the animation, adding a sense of natural movement to the transition.
+
+   Customization: Developers may have the option to customize various aspects of the animation, such as the type of transition effect (e.g., fade, slide, scale), direction, and style.
