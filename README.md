@@ -16,8 +16,6 @@ Feedback:- Additionally, the animation might be accompanied by auditory feedback
 
 Switch animations serve several purposes in user interface design:-Enhanced User Experience: By providing smooth and visually pleasing transitions, switch animations enhance the overall user experience, making interactions with the interface more engaging and intuitive.
 
-Feedback Mechanism:- The animation serves as feedback to the user, confirming their action and visually indicating the change in state or selection.
-
 Visual Continuity:- Animations help maintain visual continuity within the interface, reducing abrupt changes and making the transition between different states feel more seamless.
 
 Accessibility:- For users with disabilities, animations can provide additional cues about changes in the interface, aiding comprehension and navigation.
